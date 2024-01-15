@@ -27,6 +27,6 @@ Our learnings encompassed understanding the precision-recall trade-off, the sign
 In summary, the assignment provided valuable insights into the practical application of machine learning in a business context, emphasizing precision, collaboration, and continuous improvement
 
 
-Bhagabati Prasad Mishra
-Swamy Bore
+Bhagabati Prasad Mishra |
+Swamy Bore |
 Krishna Prasanth
